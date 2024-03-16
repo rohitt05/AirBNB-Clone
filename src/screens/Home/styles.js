@@ -40,10 +40,12 @@ const styles = StyleSheet.create({
     position: "absolute",
     top: 20,
     zIndex: 100,
+    marginTop: 20
   },
   searchButtonText: {
     fontSize: 16,
     fontWeight: "bold",
+
     
   },
 });
